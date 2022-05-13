@@ -1,0 +1,20 @@
+{
+    "name": "logical-properties-",
+    "displayName": "Logical Properties ",
+    "description": "insert logical properties in your code within having to remember how it is spelled",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+  "margin-inline": {
+    "scope": "css",
+    "prefix": "mi",
+    "body": "margin-inline: ${value}",
+    "description": "generates the margin-inline logical property"
+  },
+  "margin-block": {
+    "scope": "css",
+    "prefix": "mb",
+    "body": "margin-block: ${value}",
+    "description": "generates the margin-block logical property"
+  },
+  "margin-block-start": {
+    "scope": "css",
+    "prefix": "mbs",
+    "body": "margin-block-start: ${value}",
+    "description": "generates the margin-block-start logical property"
+  },
+  "margin-block-end": {
+    "scope": "css",
+    "prefix": "mbi",
+    "body": "margin-block-end: ${value}",
+    "description": "generates the margin-block-end logical property"
+  },
+  "margin-inline-start": {
+    "scope": "css",
+    "prefix": "mis",
+    "body": "margin-inline-start: ${value}",
+    "description": "generates the margin-inline-start logical property"
+  },
+  "margin-inline-end": {
+    "scope": "css",
+    "prefix": "mie",
+    "body": "margin-inline-end: ${value}",
+    "description": "generates the margin-inline-end logical property"
+  },
+  "inline-size": {
+    "scope": "css",
+    "prefix": "ins",
+    "body": "inline-size: ${value}",
+    "description": "generates the inline-size logical property"
+  },
+  "block-size": {
+    "scope": "css",
+    "prefix": "bls",
+    "body": "block-size: ${value}",
+    "description": "generates the block-size logical property"
+  },
+  "max-block-size": {
+    "scope": "css",
+    "prefix": "mxbs",
+    "body": "max-block-size: ${value}",
+    "description": "generates the max-block-size logical property"
+  },
+  "min-block-size": {
+    "scope": "css",
+    "prefix": "mnbs",
+    "body": "minblock-size: ${value}",
+    "description": "generates the min-block-size logical property"
+  },
+  "max-inline-size": {
+    "scope": "css",
+    "prefix": "mxis",
+    "body": "max-inline-size: ${value}",
+    "description": "generates the max-inline-size logical property"
+  },
+  "min-inline-size": {
+    "scope": "css",
+    "prefix": "mnis",
+    "body": "min-inline-size: ${value}",
+    "description": "generates the min-inline-size logical property"
+  },
+  "padding-block": {
+    "scope": "css",
+    "prefix": "pb",
+    "body": "padding-block: ${value}",
+    "description": "generates the padding-block logical property"
+  },
+  "padding-block-start": {
+    "scope": "css",
+    "prefix": "pbs",
+    "body": "padding-block-start: ${value}",
+    "description": "generates the padding-block-start logical property"
+  },
+  "padding-block-end": {
+    "scope": "css",
+    "prefix": "pbe",
+    "body": "padding-block-end: ${value}",
+    "description": "generates the padding-block-end logical property"
+  }
+}
+
