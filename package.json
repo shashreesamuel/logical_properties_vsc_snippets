@@ -1,7 +1,7 @@
 {
     "name": "logical-properties",
     "displayName": "Logical Properties ",
-    "description": "insert logical properties in your code within having to remember how it is spelled",
+    "description": "insert logical properties in your code without having to remember how it is spelled, helping you to code faster and more productive",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"

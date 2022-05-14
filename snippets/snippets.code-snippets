@@ -1,266 +1,344 @@
 {
   "margin-inline": {
     "scope": "css",
-    "prefix": "mi",
-    "body": "margin-inline: ${value}",
+    "prefix": "margin-inline",
+    "body": "margin-inline: ${value};",
     "description": "generates the margin-inline logical property"
   },
   "margin-block": {
     "scope": "css",
-    "prefix": "mb",
-    "body": "margin-block: ${value}",
+    "prefix": "margin-block",
+    "body": "margin-block: ${value};",
     "description": "generates the margin-block logical property"
   },
   "margin-block-start": {
     "scope": "css",
-    "prefix": "mbs",
-    "body": "margin-block-start: ${value}",
+    "prefix": "margin-block-start",
+    "body": "margin-block-start: ${value};",
     "description": "generates the margin-block-start logical property"
   },
   "margin-block-end": {
     "scope": "css",
-    "prefix": "mbi",
-    "body": "margin-block-end: ${value}",
+    "prefix": "margin-block-end",
+    "body": "margin-block-end: ${value};",
     "description": "generates the margin-block-end logical property"
   },
   "margin-inline-start": {
     "scope": "css",
-    "prefix": "mis",
-    "body": "margin-inline-start: ${value}",
+    "prefix": "margin-inline-start",
+    "body": "margin-inline-start: ${value};",
     "description": "generates the margin-inline-start logical property"
   },
   "margin-inline-end": {
     "scope": "css",
-    "prefix": "mie",
-    "body": "margin-inline-end: ${value}",
+    "prefix": "margin-inline-end",
+    "body": "margin-inline-end: ${value};",
     "description": "generates the margin-inline-end logical property"
   },
   "inline-size": {
     "scope": "css",
-    "prefix": "ins",
-    "body": "inline-size: ${value}",
+    "prefix": "inline-size",
+    "body": "inline-size: ${value};",
     "description": "generates the inline-size logical property"
   },
   "block-size": {
     "scope": "css",
-    "prefix": "bls",
-    "body": "block-size: ${value}",
+    "prefix": "block-size",
+    "body": "block-size: ${value};",
     "description": "generates the block-size logical property"
   },
   "max-block-size": {
     "scope": "css",
-    "prefix": "mxbs",
-    "body": "max-block-size: ${value}",
+    "prefix": "max-block-size",
+    "body": "max-block-size: ${value};",
     "description": "generates the max-block-size logical property"
   },
   "min-block-size": {
     "scope": "css",
-    "prefix": "mnbs",
-    "body": "minblock-size: ${value}",
+    "prefix": "min-block-size",
+    "body": "min-block-size: ${value};",
     "description": "generates the min-block-size logical property"
   },
   "max-inline-size": {
     "scope": "css",
-    "prefix": "mxis",
-    "body": "max-inline-size: ${value}",
+    "prefix": "max-inline-size",
+    "body": "max-inline-size: ${value};",
     "description": "generates the max-inline-size logical property"
   },
   "min-inline-size": {
     "scope": "css",
-    "prefix": "mnis",
-    "body": "min-inline-size: ${value}",
+    "prefix": "min-inline-size",
+    "body": "min-inline-size: ${value};",
     "description": "generates the min-inline-size logical property"
   },
   "padding-block": {
     "scope": "css",
-    "prefix": "pb",
-    "body": "padding-block: ${value}",
+    "prefix": "padding-block",
+    "body": "padding-block: ${value};",
     "description": "generates the padding-block logical property"
   },
   "padding-block-start": {
     "scope": "css",
-    "prefix": "pbs",
-    "body": "padding-block-start: ${value}",
+    "prefix": "padding-block-start",
+    "body": "padding-block-start: ${value};",
     "description": "generates the padding-block-start logical property"
   },
   "padding-block-end": {
     "scope": "css",
-    "prefix": "pbe",
-    "body": "padding-block-end: ${value}",
+    "prefix": "padding-block-end",
+    "body": "padding-block-end: ${value};",
     "description": "generates the padding-block-end logical property"
+  },
+  "padding-inline": {
+    "scope": "css",
+    "prefix": "padding-inline",
+    "body": "padding-inline: ${value};",
+    "description": "generates the padding-inline logical property"
+  },
+  "padding-inline-start": {
+    "scope": "css",
+    "prefix": "padding-inline-start",
+    "body": "padding-inline-start: ${value};",
+    "description": "generates the padding-inline-start logical property"
+  },
+  "padding-inline-end": {
+    "scope": "css",
+    "prefix": "padding-inline-end",
+    "body": "padding-inline-end: ${value};",
+    "description": "generates the padding-inline-end logical property"
   },
   "border-block": {
     "scope": "css",
-    "prefix": "bb",
-    "body": "border-block: ${value}",
+    "prefix": "border-block",
+    "body": "border-block: ${value};",
     "description": "generates the border-block logical property"
   },
   "border-block-color": {
     "scope": "css",
-    "prefix": "bbc",
-    "body": "border-block-color: ${value}",
+    "prefix": "border-block-color",
+    "body": "border-block-color: ${value};",
     "description": "generates the border-block-color logical property"
   },
   "border-block-end": {
     "scope": "css",
-    "prefix": "bbe",
-    "body": "border-block-end: ${value}",
+    "prefix": "border-block-end",
+    "body": "border-block-end: ${value};",
     "description": "generates the border-block-end logical property"
   },
   "border-block-end-color": {
     "scope": "css",
-    "prefix": "bbec",
-    "body": "border-block-end-color: ${value}",
+    "prefix": "border-block-end-color",
+    "body": "border-block-end-color: ${value};",
     "description": "generates the border-block-end-color logical property"
   },
   "border-block-end-style": {
     "scope": "css",
-    "prefix": "bbes",
-    "body": "border-block-end-style: ${value}",
+    "prefix": "border-block-end-style",
+    "body": "border-block-end-style: ${value};",
     "description": "generates the border-block-end-style logical property"
   },
   "border-block-end-width": {
     "scope": "css",
-    "prefix": "bbew",
-    "body": "border-block-end-width: ${value}",
+    "prefix": "border-block-end-width",
+    "body": "border-block-end-width: ${value};",
     "description": "generates the border-block-end-width logical property"
   },
   "border-block-start": {
     "scope": "css",
-    "prefix": "bbs",
-    "body": "border-block-start: ${value}",
+    "prefix": "border-block-start",
+    "body": "border-block-start: ${value};",
     "description": "generates the border-block-start logical property"
   },
   "border-block-start-color": {
     "scope": "css",
-    "prefix": "bbsc",
-    "body": "border-block-start-color: ${value}",
+    "prefix": "border-block-start-color",
+    "body": "border-block-start-color: ${value};",
     "description": "generates the border-block-end-start-color logical property"
   },
   "border-block-start-style": {
     "scope": "css",
-    "prefix": "bbss",
-    "body": "border-block-start-style: ${value}",
+    "prefix": "border-block-start-style",
+    "body": "border-block-start-style: ${value;};",
     "description": "generates the border-block-start-style logical property"
   },
   "border-block-start-width": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-block-start-width",
+    "body": "border-block-start-width: ${value};",
     "description": "generates the border-block-start-width logical property"
   },
   "border-block-width": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-block-width",
+    "body": "border-block-width: ${value};",
     "description": "generates the border-block-width logical property"
   },
   "border-color": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-color",
+    "body": "border-color: ${value};",
     "description": "generates the border-color logical property"
   },
   "border-inline": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline",
+    "body": "border-inline: ${value}",
     "description": "generates the border-inline logical property"
   },
   "border-inline-color": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-color",
+    "body": "border-inline-color: ${value};",
     "description": "generates the border-inline-color logical property"
   },
   "border-inline-end": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-end",
+    "body": "border-inline-end: ${value};",
     "description": "generates the border-inline-end logical property"
   },
   "border-inline-end-color": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-end-color",
+    "body": "border-inline-end-color: ${value};",
     "description": "generates the border-inline-end-color logical property"
   },
   "border-inline-end-style": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-end-style",
+    "body": "border-inline-end-style: ${value};",
     "description": "generates the border-inline-end-style logical property"
   },
   "border-inline-start": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-start",
+    "body": "border-inline-start: ${value};",
     "description": "generates the border-inline-start logical property"
   },
   "border-inline-start-color": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-start-color",
+    "body": "border-inline-start-color;: ${value};",
     "description": "generates the border-inline-start-color logical property"
   },
   "border-inline-start-style": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-start-style",
+    "body": "border-inline-start-style: ${value};",
     "description": "generates the border-inline-start-style logical property"
   },
   "border-inline-start-width": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-start-width",
+    "body": "border-inline-start-width: ${value};",
     "description": "generates the border-inline-start-width logical property"
   },
   "border-inline-style": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-inline-style",
+    "body": "border-inline-style: ${value};",
     "description": "generates the border-inline-style logical property"
   },
   "border-inline-width": {
     "scope": "css",
     "prefix": "",
-    "body": "",
+    "body": "border-inline-width: ${value};",
     "description": "generates the border-inline-width logical property"
   },
   "border-start-start-radius": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-start-start-radius",
+    "body": "border-start-start-radius: ${value};",
     "description": "generates the border-start-start-radius logical property"
   },
   "border-start-end-radius": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-start-end-radius",
+    "body": "border-start-end-radius: ${value};",
     "description": "generates the border-start-end-radius logical property"
   },
   "border-end-start-radius": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-end-start-radius",
+    "body": "border-end-start-radius: ${value};",
     "description": "generates the border-end-start-radius logical property"
   },
   "border-end-end-radius": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-end-end-radius",
+    "body": "border-end-end-radius: ${value};",
     "description": "generates the border-end-end-radius logical property"
   },
   "border-style": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-style",
+    "body": "border-style: ${value};",
     "description": "generates the border-style logical property"
   },
   "border-width": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "border-width",
+    "body": "border-width: ${value};",
     "description": "generates the border-width logical property"
+  },
+  "css-reset": {
+    "scope": "css",
+    "prefix": "css-reset",
+    "body": "*{margin: 0;padding: 0;box-sizing: border-box;}",
+    "description": "generates the universal selector to reset all the browser styles"
+  },
+  "clear (inline-end and inline-start keywords)": {
+    "scope": "css",
+    "prefix": "clear",
+    "body": "clear: ${value};",
+    "description": "generates the clear logical property"
+  },
+  "float (inline-end and inline-start keywords)": {
+    "scope": "css",
+    "prefix": "float",
+    "body": "float: ${value};",
+    "description": "generates the float logical property"
+  },
+  "inset": {
+    "scope": "css",
+    "prefix": "inset",
+    "body": "inset: ${value};",
+    "description": "generates the inset logical property"
+  },
+  "inset-block": {
+    "scope": "css",
+    "prefix": "inset-block",
+    "body": "inset-block: ${value};",
+    "description": "generates the inset-block logical property"
+  },
+  "inset-block-end": {
+    "scope": "css",
+    "prefix": "inset-block-end",
+    "body": "inset-block-end: ${value};",
+    "description": "generates the inset-block-end logical property"
+  },
+  "inset-block-start": {
+    "scope": "css",
+    "prefix": "inset-block-start",
+    "body": "inset-block-start: ${value}",
+    "description": "generates the inset-block-start logical property"
+  },
+  "inset-inline": {
+    "scope": "css",
+    "prefix": "inset-inline",
+    "body": "inset-inline: ${value}",
+    "description": "generates the inset-inline logical property"
+  },
+  "inset-inline-end": {
+    "scope": "css",
+    "prefix": "inset-inline-end",
+    "body": "inset-inline-end: ${value}",
+    "description": "generates the inset-inline-end logical property"
+  },
+  "inset-inline-start": {
+    "scope": "css",
+    "prefix": "inset-inline-start",
+    "body": "inset-inline-start: ${value}",
+    "description": "generates the inset-inline-start logical property"
   }
 }
