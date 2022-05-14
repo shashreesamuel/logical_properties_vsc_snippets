@@ -88,6 +88,179 @@
     "prefix": "pbe",
     "body": "padding-block-end: ${value}",
     "description": "generates the padding-block-end logical property"
+  },
+  "border-block": {
+    "scope": "css",
+    "prefix": "bb",
+    "body": "border-block: ${value}",
+    "description": "generates the border-block logical property"
+  },
+  "border-block-color": {
+    "scope": "css",
+    "prefix": "bbc",
+    "body": "border-block-color: ${value}",
+    "description": "generates the border-block-color logical property"
+  },
+  "border-block-end": {
+    "scope": "css",
+    "prefix": "bbe",
+    "body": "border-block-end: ${value}",
+    "description": "generates the border-block-end logical property"
+  },
+  "border-block-end-color": {
+    "scope": "css",
+    "prefix": "bbec",
+    "body": "border-block-end-color: ${value}",
+    "description": "generates the border-block-end-color logical property"
+  },
+  "border-block-end-style": {
+    "scope": "css",
+    "prefix": "bbes",
+    "body": "border-block-end-style: ${value}",
+    "description": "generates the border-block-end-style logical property"
+  },
+  "border-block-end-width": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-block-end-width logical property"
+  },
+  "border-block-start": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-block-start logical property"
+  },
+  "border-block-start-color": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-block-end-start-color logical property"
+  },
+  "border-block-start-style": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-block-start-style logical property"
+  },
+  "border-block-start-width": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-block-start-width logical property"
+  },
+  "border-block-width": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-block-width logical property"
+  },
+  "border-color": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-color logical property"
+  },
+  "border-inline": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline logical property"
+  },
+  "border-inline-color": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-color logical property"
+  },
+  "border-inline-end": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-end logical property"
+  },
+  "border-inline-end-color": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-end-color logical property"
+  },
+  "border-inline-end-style": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-end-style logical property"
+  },
+  "border-inline-start": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-start logical property"
+  },
+  "border-inline-start-color": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-start-color logical property"
+  },
+  "border-inline-start-style": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-start-style logical property"
+  },
+  "border-inline-start-width": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-start-width logical property"
+  },
+  "border-inline-style": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-style logical property"
+  },
+  "border-inline-width": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-inline-width logical property"
+  },
+  "border-start-start-radius": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-start-start-radius logical property"
+  },
+  "border-start-end-radius": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-start-end-radius logical property"
+  },
+  "border-end-start-radius": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-end-start-radius logical property"
+  },
+  "border-end-end-radius": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-end-end-radius logical property"
+  },
+  "border-style": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-style logical property"
+  },
+  "border-width": {
+    "scope": "css",
+    "prefix": "",
+    "body": "",
+    "description": "generates the border-width logical property"
   }
 }
-
