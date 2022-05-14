@@ -121,26 +121,26 @@
   },
   "border-block-end-width": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "bbew",
+    "body": "border-block-end-width: ${value}",
     "description": "generates the border-block-end-width logical property"
   },
   "border-block-start": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "bbs",
+    "body": "border-block-start: ${value}",
     "description": "generates the border-block-start logical property"
   },
   "border-block-start-color": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "bbsc",
+    "body": "border-block-start-color: ${value}",
     "description": "generates the border-block-end-start-color logical property"
   },
   "border-block-start-style": {
     "scope": "css",
-    "prefix": "",
-    "body": "",
+    "prefix": "bbss",
+    "body": "border-block-start-style: ${value}",
     "description": "generates the border-block-start-style logical property"
   },
   "border-block-start-width": {
