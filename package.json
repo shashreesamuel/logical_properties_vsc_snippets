@@ -1,6 +1,6 @@
 {
-  "name": "logical-properties",
-  "displayName": "logical-properties",
+  "name": "css-logical-properties",
+  "displayName": "css-logical-properties",
   "description": "insert logical properties in your code without having to remember how it is spelled, helping you to code faster and more productive",
   "version": "0.0.1",
   "engines": {
