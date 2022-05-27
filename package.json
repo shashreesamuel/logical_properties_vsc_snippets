@@ -1,20 +1,34 @@
 {
-    "name": "logical-properties",
-    "displayName": "Logical Properties ",
-    "description": "insert logical properties in your code without having to remember how it is spelled, helping you to code faster and more productive",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "css",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    }
+  "name": "logical-properties",
+  "displayName": "logical-properties",
+  "description": "insert logical properties in your code without having to remember how it is spelled, helping you to code faster and more productive",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "author": {
+    "name": "Shashree Samuel",
+    "email": "shashreeshachindrasamuel14@gmail.com"
+  },
+  "keywords": [
+    "logical-properties",
+    "logical_properties",
+    "logical",
+    "properties",
+    "css",
+    "css snippets"
+  ],
+  "repository": "https://github.com/TheCoderGuru/logical_properties_vsc_snippets.git",
+  "publisher": "ShashreeSamuel"
 }

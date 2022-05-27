@@ -1,12 +1,14 @@
-# logical-properties README
+# logical_properties
 
 This extension will enable you to quickly use logical properties in your stylesheets without trying to remember how it is spelt.
+
+<br>
 
 ## Features
 
 This extension features all of the currently supported css logical properties and values.
 
-Here are a few of the properties that are part of this extension
+Here are a few of the properties that are part of this extension, there are **more** than the ones specified below
 
 
 
@@ -21,9 +23,11 @@ Here are a few of the properties that are part of this extension
 | margin-inline-end | generates the margin-inline-end logical property    |
 
 
+<br>
 
 
-I hope this extension greatly helps you to write your css code faster and it will be updated to improve the quality
+I hope this extension greatly helps you to write your css code faster and it will be updated to improve the quality.
+
 
 Cheers and happy coding
 
