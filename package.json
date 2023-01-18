@@ -1,8 +1,9 @@
 {
   "name": "css-logical-properties",
-  "displayName": "css-logical-properties",
+  "displayName": "CSS Logical Properties",
+  "icon": "plugin_icon.png",
   "description": "insert logical properties in your code without having to remember how it is spelled, helping you to code faster and more productive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.67.0"
   },
@@ -18,8 +19,7 @@
     ]
   },
   "author": {
-    "name": "Shashree Samuel",
-    "email": "shashreeshachindrasamuel14@gmail.com"
+    "name": "Shashree Samuel"
   },
   "keywords": [
     "logical-properties",
